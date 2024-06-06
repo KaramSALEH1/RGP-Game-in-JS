@@ -1,3 +1,5 @@
+//Hi in my little game; Have fun.
+
 let xp =0; 
 let health =100;
 let gold =50;
